@@ -4,6 +4,5 @@ If my open source projects are helpful to you, please consider sponsoring in any
 
 USDT-TRC20 
 - TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe
-- TCAyNh5xu52wEYkLyfqCywGkaHLsSo9jRv
 
 Thanks!
